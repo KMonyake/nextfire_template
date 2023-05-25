@@ -15,13 +15,13 @@ pnpm dev
 
 Create a .env.local file in the root folder and include your firebase config object inside.
 
-Like so:\
+Like so:
 ```bash
-    NEXT_PUBLIC_FIREBASE_API_KEY="Your api key"\
-    NEXT_PUBLIC_FIREBASE_AUTH_DOMIAIN="Your auth domain"\
-    NEXT_PUBLIC_FIREBASE_PROJECT_ID="Your project id"\
-    NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET="Your storage bucket"\
-    NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID="Your sender id"\
+    NEXT_PUBLIC_FIREBASE_API_KEY="Your api key"
+    NEXT_PUBLIC_FIREBASE_AUTH_DOMIAIN="Your auth domain"
+    NEXT_PUBLIC_FIREBASE_PROJECT_ID="Your project id"
+    NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET="Your storage bucket"
+    NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID="Your sender id"
     NEXT_PUBLIC_FIREBASE_APP_ID="Your app id"
 ```
 
